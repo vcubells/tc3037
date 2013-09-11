@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Session Name="/home/alumno/Desktop/Parallels Shared Folders/Home/svn/vcn/itesm/tc3037/trunk/TC3037.workspace">
+  <int Value="7" Name="m_selectedTab"/>
+  <wxString Value="/home/alumno/Desktop/Parallels Shared Folders/Home/svn/vcn/itesm/tc3037/trunk/TC3037.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t8c2e3/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t8c2e3/server.c" Name="FileName"/>
+      <int Value="70" Name="FirstVisibleLine"/>
+      <int Value="70" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t1c3e1/main.c" Name="FileName"/>
+      <int Value="15" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t1c4e1/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t1c4e2/main.c" Name="FileName"/>
+      <int Value="20" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t1c5e1/main.c" Name="FileName"/>
+      <int Value="14" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t1c5e2/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/psf/Home/svn/vcn/itesm/tc3037/trunk/t1c6e1/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
